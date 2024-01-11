@@ -8,3 +8,4 @@
 [![My Skills](https://skillicons.dev/icons?i=git,neovim,netlify,opencv,ps,pr,rasberrypi,&theme=dark)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=your-karmugilen&color=grey)
+![](./profile-3d-contrib/profile-green-animate.svg)
