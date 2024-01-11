@@ -2,10 +2,4 @@
 ####
 ![](https://komarev.com/ghpvc/?username=your-karmugilen&color=grey)
 
-name: Half-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
+[![My Skills](https://skillicons.dev/icons?i=python,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
