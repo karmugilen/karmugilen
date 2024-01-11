@@ -1,5 +1,5 @@
 ![Snake animation](https://github.com/karmugilen/karmugilen/blob/output/github-contribution-grid-snake.svg)
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow-animate.svg)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karmugilen&show_icons=true&theme=transparent)
