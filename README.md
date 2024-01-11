@@ -3,3 +3,4 @@
 ![](https://komarev.com/ghpvc/?username=your-karmugilen&color=grey)
 
 [![My Skills](https://skillicons.dev/icons?i=python,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
