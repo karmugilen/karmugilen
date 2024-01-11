@@ -9,4 +9,4 @@
 
 ![](https://komarev.com/ghpvc/?username=your-karmugilen&color=grey)
 
-![](./profile-3d-contrib/profile-night-rainbow-animate.svg)
+![](./profile-3d-contrib/profile-night-animate.svg)
