@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-karmugilen&color=grey)
 
-### Hello. ruce to meet you
+### Hello, nice to meet you
 
 
 
