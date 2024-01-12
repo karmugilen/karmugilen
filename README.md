@@ -3,8 +3,13 @@
 
 </p>
 
-
+<p align="center">
+<a href="https://github.com/LiLittleCat"><img src="https://img.shields.io/badge/Always%20Be-Coding-blue?style=for-the-badge"/></a>
+<a href="https://github.com/LiLittleCat"><img src="https://komarev.com/ghpvc/?username=karmugilan&color=brightgreen&style=for-the-badge"/></a>
   
+</p>
+
+
    👨‍💻 Hello, nice to meet you. I am a developer from India, I like to develop tools and software that can bring convenience to people.
   - Programmer / Developer / Coder 
   - Python / Kotlin Developer
