@@ -1,6 +1,19 @@
-#Karmugil
+# Karmugil
 
 ![](https://komarev.com/ghpvc/?username=your-karmugilen&color=grey)
+
+### Hello. ruce to meet you
+
+
+
+👨‍💻 Hello, nice to meet you. I am a developer from India, I like to develop tools and software that can bring convenience to people.
+- Programmer / Developer / Coder 
+- Python / Kotlin Developer
+- [Portfolio](https://kkarmugil.github.io/Portfolio/)
+
+
+
+  
 
 ![Snake animation](https://github.com/karmugilen/karmugilen/blob/output/github-contribution-grid-snake.svg)
 
