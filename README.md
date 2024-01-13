@@ -19,7 +19,6 @@
 
 
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmugilen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Stats" width="33%">
   <a href="https://skillicons.dev">
