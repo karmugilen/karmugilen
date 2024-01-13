@@ -3,11 +3,18 @@
 
 </p>
 
+
+
 <p align="center">
 <a href="https://github.com/LiLittleCat"><img src="https://img.shields.io/badge/Always%20Be-Coding-blue?style=for-the-badge"/></a>
 <a href="https://github.com/LiLittleCat"><img src="https://komarev.com/ghpvc/?username=karmugilan&color=brightgreen&style=for-the-badge"/></a>
   
 </p>
+<div align="right" >
+  <img src="https://github.com/karmugilen/karmugilen/assets/156077814/8d43a914-aa60-40d6-8bfa-ace83492ff3e" height="40" />
+
+</div>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=karmugilen&show_icons=true&theme=transparent" />
 
 
@@ -15,8 +22,6 @@
   - Programmer / Developer / Coder 
   - Python / Kotlin Developer
   - [Portfolio](https://kkarmugil.github.io/Portfolio/)
-
-
 
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <div align="center">
