@@ -25,7 +25,7 @@
 
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmugilen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Stats" width="33%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmugilen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Stats" width="39%">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,kotlin,nodejs,figma,androidstudio,flask,git,neovim,netlify,opencv,ps,pr,raspberrypi,&theme=dark" alt="My Skills" width="60%">
   </a>
