@@ -22,8 +22,9 @@
   - Programmer / Developer / Coder 
   - Python / Kotlin Developer
   - [Portfolio](https://kkarmugil.github.io/Portfolio/)
-
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+  
+<br>
+<img src="https://github.com/karmugilen/karmugilen/assets/156077814/a93b22a5-fb5e-46d3-a944-839b07eed4be" height="40" />
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmugilen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Stats" width="39%">
   <a href="https://skillicons.dev">
