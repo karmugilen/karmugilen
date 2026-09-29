@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=550&height=45&lines=Hi+there,+I'm+Karmugilan+%F0%9F%91%8B;AI+Engineer+%26+System+Researcher+%E2%9A%A1;Building+Agent+Systems+%26+Steganography+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=550&height=45&lines=Hi+there,+I'm+Karmugilan;Developer;Python+%26+Kotlin" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,23 +12,23 @@
 
 ---
 
-### 👨‍💻 About Me
+### About
 
-I am a Software Developer and AI Engineer/Researcher from India specializing in **Agentic AI Systems**, **Information Security & Steganography / Invertible Neural Networks**, and **Native Systems & Mobile Development**.
+Developer from India building tools, systems, and applications.
 
-- 🔭 **Current Work**: Autonomous Multi-Agent Frameworks, Video Steganography Research, and Latent Memory for LLMs.
-- 💡 **Core Domains**: Multi-Agent Orchestration, Post-Quantum Steganography (ILWT, INN, QIM), RAG Systems, Android Kernel/Media Tooling.
-- 🌐 **Portfolio**: [kkarmugil.github.io/Portfolio](https://kkarmugil.github.io/Portfolio/)
-- 📫 **GitHub**: [@karmugilen](https://github.com/karmugilen)
+- **Current Focus**: Multi-agent systems, data hiding algorithms, and native applications.
+- **Languages & Areas**: Python, Kotlin, Machine Learning / Steganography, Android tooling.
+- **Portfolio**: [kkarmugil.github.io/Portfolio](https://kkarmugil.github.io/Portfolio/)
+- **GitHub**: [@karmugilen](https://github.com/karmugilen)
 
 ---
 
-### 🚀 Key Projects & Research
+### Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/karmugilen/mem">🧠 mem</a></h3>
+      <h3 align="center"><a href="https://github.com/karmugilen/mem">mem</a></h3>
       <p align="center"><em>Daily journal as latent memory for humans and AI coding agents. Sparse cues, zero-friction recall.</em></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -36,7 +36,7 @@ I am a Software Developer and AI Engineer/Researcher from India specializing in 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/karmugilen/pdf-rag-langchain-lab">📄 pdf-rag-langchain-lab</a></h3>
+      <h3 align="center"><a href="https://github.com/karmugilen/pdf-rag-langchain-lab">pdf-rag-langchain-lab</a></h3>
       <p align="center"><em>Interactive PDF RAG pipeline powered by LangChain, ChromaDB, and Gemini/Gemma models.</em></p>
       <p align="center">
         <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
@@ -47,8 +47,8 @@ I am a Software Developer and AI Engineer/Researcher from India specializing in 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/karmugilen/torrent-player">⚡ torrent-player</a></h3>
-      <p align="center"><em>Native Android high-performance media streamer and bit-torrent player engine.</em></p>
+      <h3 align="center"><a href="https://github.com/karmugilen/torrent-player">torrent-player</a></h3>
+      <p align="center"><em>Native Android media streamer and bit-torrent player engine.</em></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
@@ -56,7 +56,7 @@ I am a Software Developer and AI Engineer/Researcher from India specializing in 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/karmugilen/LSB-Steganography-Toolkit">🔒 LSB Steganography Toolkit</a></h3>
+      <h3 align="center"><a href="https://github.com/karmugilen/LSB-Steganography-Toolkit">LSB-Steganography-Toolkit</a></h3>
       <p align="center"><em>Steganography suite for image data hiding with real-time capacity and quality analytics.</em></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -69,7 +69,7 @@ I am a Software Developer and AI Engineer/Researcher from India specializing in 
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -79,7 +79,7 @@ I am a Software Developer and AI Engineer/Researcher from India specializing in 
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### GitHub Activity & Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karmugilen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
@@ -91,7 +91,7 @@ I am a Software Developer and AI Engineer/Researcher from India specializing in 
 </p>
 
 <details>
-  <summary><b>📈 View 3D Contribution Graph</b></summary>
+  <summary><b>View 3D Contribution Graph</b></summary>
   <br/>
   <p align="center">
     <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
@@ -100,7 +100,7 @@ I am a Software Developer and AI Engineer/Researcher from India specializing in 
 
 ---
 
-### 🐍 Contribution Activity
+### Contribution Activity
 
 <p align="center">
   <picture>
