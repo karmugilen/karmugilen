@@ -1,46 +1,111 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=30&duration=2500&pause=500&center=true&vCenter=true&width=300&height=30&lines=Hi+there+%F0%9F%91%8B;I'm+KARMUGIL+%F0%9F%98%B8" alt="Typing SVG" /></a>
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=550&height=45&lines=Hi+there,+I'm+Karmugilan+%F0%9F%91%8B;AI+Engineer+%26+System+Researcher+%E2%9A%A1;Building+Agent+Systems+%26+Steganography+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
-
-
 
 <p align="center">
-<a href="https://github.com/LiLittleCat"><img src="https://img.shields.io/badge/Always%20Be-Coding-blue?style=for-the-badge"/></a>
-<a href="https://github.com/LiLittleCat"><img src="https://komarev.com/ghpvc/?username=karmugilan&color=brightgreen&style=for-the-badge"/></a>
-  
+  <a href="https://github.com/karmugilen"><img src="https://img.shields.io/badge/Always%20Be-Coding-2563EB?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
+  <a href="https://github.com/karmugilen"><img src="https://komarev.com/ghpvc/?username=karmugilen&color=0284C7&style=for-the-badge&label=PROFILE+VIEWS"/></a>
+  <a href="https://kkarmugil.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live-059669?style=for-the-badge&logo=safari&logoColor=white"/></a>
 </p>
-<div align="right" >
-  <img src="https://github.com/karmugilen/karmugilen/assets/156077814/8d43a914-aa60-40d6-8bfa-ace83492ff3e" height="40" />
 
-</div>
+---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=karmugilen&show_icons=true&theme=transparent" />
+### 👨‍💻 About Me
 
+I am a Software Developer and AI Engineer/Researcher from India specializing in **Agentic AI Systems**, **Information Security & Steganography / Invertible Neural Networks**, and **Native Systems & Mobile Development**.
 
-   👨‍💻 Hello, nice to meet you. I am a developer from India, I like to develop tools and software that can bring convenience to people.
-  - Programmer / Developer / Coder 
-  - Python / Kotlin Developer
-  - [Portfolio](https://kkarmugil.github.io/Portfolio/)
-  
-<br>
-<img src="https://github.com/karmugilen/karmugilen/assets/156077814/a93b22a5-fb5e-46d3-a944-839b07eed4be" height="40" />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmugilen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Stats" width="39%">
+- 🔭 **Current Work**: Autonomous Multi-Agent Frameworks, Video Steganography Research, and Latent Memory for LLMs.
+- 💡 **Core Domains**: Multi-Agent Orchestration, Post-Quantum Steganography (ILWT, INN, QIM), RAG Systems, Android Kernel/Media Tooling.
+- 🌐 **Portfolio**: [kkarmugil.github.io/Portfolio](https://kkarmugil.github.io/Portfolio/)
+- 📫 **GitHub**: [@karmugilen](https://github.com/karmugilen)
+
+---
+
+### 🚀 Key Projects & Research
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/karmugilen/mem">🧠 mem</a></h3>
+      <p align="center"><em>Daily journal as latent memory for humans and AI coding agents. Sparse cues, zero-friction recall.</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Agent%20Memory-LLM-blueviolet?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/karmugilen/pdf-rag-langchain-lab">📄 pdf-rag-langchain-lab</a></h3>
+      <p align="center"><em>Interactive PDF RAG pipeline powered by LangChain, ChromaDB, and Gemini/Gemma models.</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/ChromaDB-FC521F?style=flat-square" />
+        <img src="https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/karmugilen/torrent-player">⚡ torrent-player</a></h3>
+      <p align="center"><em>Native Android high-performance media streamer and bit-torrent player engine.</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/P2P%20Streaming-0052CC?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/karmugilen/LSB-Steganography-Toolkit">🔒 LSB Steganography Toolkit</a></h3>
+      <p align="center"><em>Steganography suite for image data hiding with real-time capacity and quality analytics.</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/Security-Stego-darkgreen?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,kotlin,nodejs,figma,androidstudio,flask,git,neovim,netlify,opencv,ps,pr,raspberrypi,&theme=dark" alt="My Skills" width="60%">
+    <img src="https://skillicons.dev/icons?i=python,kotlin,androidstudio,neovim,git,github,opencv,flask,fastapi,nodejs,raspberrypi,linux,bash,figma,ps,pr&perline=8" alt="Tech Stack" />
   </a>
-</div>
-<br>
+</p>
 
+---
 
+### 📊 GitHub Activity & Metrics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karmugilen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmugilen&theme=tokyonight&hide_border=true&layout=compact&count_private=true" width="48%" alt="Top Languages" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karmugilen&theme=tokyonight&hide_border=true" width="96%" alt="GitHub Streak" />
+</p>
 
+<details>
+  <summary><b>📈 View 3D Contribution Graph</b></summary>
+  <br/>
+  <p align="center">
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+  </p>
+</details>
 
+---
 
+### 🐍 Contribution Activity
 
-![Snake animation](https://github.com/karmugilen/karmugilen/blob/output/github-contribution-grid-snake.svg)
-
-
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karmugilen/karmugilen/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karmugilen/karmugilen/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/karmugilen/karmugilen/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
